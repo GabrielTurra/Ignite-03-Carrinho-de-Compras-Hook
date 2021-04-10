@@ -14,7 +14,7 @@
 
 <h2 align="left" id="preview">💻 Preview </h2>
 <p>Clique na imagem abaixo e acesse uma prévia da aplicação diretamente na hospedagem da Vercel</p>
-<a target="_blank" href="https://ignite-desafio-02-componentizando-a-aplicacao.vercel.app"><img src="./.github/logo-rocketshoes.jpg" /></a>
+<a target="_blank" href="https://ignite-desafio-03-carrinho-de-compras-hook.vercel.app"><img src="./.github/logo-rocketshoes.jpg" /></a>
 
 <h2 align="left" id="technologies">📐 Tecnologias </h2>
 
